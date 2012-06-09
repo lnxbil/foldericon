@@ -5,3 +5,4 @@ all:
 	@echo "-----------------------------------------------------------"
 	@sleep 5
 	@/Applications/Xcode.app/Contents/Developer/usr/bin/xcodebuild -project foldericon.xcodeproj/ -alltargets
+	@ln -s build/Release/foldericon
