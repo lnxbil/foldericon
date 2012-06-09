@@ -1,3 +1,4 @@
-./.DS_Store
-./foldericon.xcodeproj/project.xcworkspace/xcuserdata/*.xcuserdatad
-./foldericon.xcodeproj/xcuserdata/*.xcuserdatad
+.DS_Store
+foldericon.xcodeproj/project.xcworkspace/xcuserdata/*.xcuserdatad
+foldericon.xcodeproj/xcuserdata/*.xcuserdatad
+build
